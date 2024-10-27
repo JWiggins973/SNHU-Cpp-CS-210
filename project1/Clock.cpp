@@ -10,7 +10,7 @@
 #include <string>
 #include "ClockAppFunctions.hpp"
 
-using namespace std;
+using namespace std
 
 int main() {
     // Variables
