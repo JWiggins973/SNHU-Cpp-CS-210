@@ -1,5 +1,5 @@
-# Cpp-Cs210
-In this assignment, I was tasked with creating an item-tracking program for the Corner Grocer. The program analyzes a text file generated throughout the day and allows users to either print the number of times a particular item was purchased, return all items purchased with their quantities, or display a histogram, depending on user input.
+# Cpp-Cs210 Reflection Final project
+In this Final project (Project3), I was tasked with creating an item-tracking program for the Corner Grocer. The program analyzes a text file generated throughout the day and allows users to either print the number of times a particular item was purchased, return all items purchased with their quantities, or display a histogram, depending on user input.
 
 The aspect I did best in this project was the menu design and handling of invalid input. The menu is neat, well-aligned, and the program is robust, ensuring it doesn't crash regardless of the input. I believe I handled both tasks more efficiently than in previous assignments.
 
