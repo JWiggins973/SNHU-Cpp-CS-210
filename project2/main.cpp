@@ -9,7 +9,7 @@
 #include <iomanip>
 #include "AirGeadBankingFunc.hpp"
 
-using namespace std;
+using namespace std
 
 int main() {
     
