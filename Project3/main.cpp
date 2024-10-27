@@ -13,7 +13,7 @@
 #include <stdexcept>
 #include "CornerGrocerfunctions.hpp"
 
-using namespace std;
+using namespace std
 
 
 
